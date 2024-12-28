@@ -1,0 +1,3 @@
+# JavaScript: Subtle Undefined Handling in Function
+
+This repository demonstrates a common yet easily overlooked error in JavaScript function input handling regarding the `undefined` value. The `bug.js` file contains the flawed code, which fails to correctly handle `undefined` inputs.  The improved handling in `bugSolution.js` addresses this flaw.  This example highlights the importance of comprehensive input validation for robust JavaScript functions.
